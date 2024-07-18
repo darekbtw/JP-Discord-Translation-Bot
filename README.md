@@ -30,4 +30,6 @@ Invite both bots to your Discord server. Mention the bot responsible for English
 
 This project is a starting point and there are many improvements and updates that are planned to be pushed. The end goal is automating a Japanese learning Discord group.
 
+## Collaboration
 
+If you wish to add on to this project, feel free to email me at dareksnowak@gmail.com
